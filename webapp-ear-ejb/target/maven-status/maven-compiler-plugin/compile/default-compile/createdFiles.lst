@@ -1,0 +1,6 @@
+org\bguerra\webapp\ear\war\ejb\services\UsuarioService.class
+org\bguerra\webapp\ear\war\ejb\services\UsuarioServiceImpl.class
+org\bguerra\webapp\ear\war\ejb\repositories\UsuariosRepository.class
+org\bguerra\webapp\ear\war\ejb\repositories\UsuarioRepositoryImpl.class
+org\bguerra\webapp\ear\war\ejb\ProducerResources.class
+org\bguerra\webapp\ear\war\ejb\entities\Usuario.class
